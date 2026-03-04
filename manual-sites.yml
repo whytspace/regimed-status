@@ -1,0 +1,12 @@
+# Add sites here that aren't in your sitemap.
+# These will be prepended to the sites list in .upptimerc.yml.
+#
+# - name: API Health
+#   url: https://api.example.com/health
+# - name: Internal Dashboard
+#   url: https://dashboard.example.com
+
+- name: Homepage
+  url: https://regimed.at
+- name: CRM
+  url: https://crm.regimed.at
