@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "EditorConfig.EditorConfig",
+    "DotJoshJohnson.xml",
+    "sleistner.vscode-fileutils",
+    "redhat.vscode-xml",
+    "github.vscode-github-actions",
+    "Anthropic.claude-code"
+  ]
+}

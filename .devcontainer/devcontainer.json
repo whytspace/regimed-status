@@ -1,0 +1,25 @@
+{
+  "name": "regimed Status",
+  "workspaceFolder": "/home/vscode/regimed-status",
+  "dockerComposeFile": ["docker-compose.yml"],
+  "features": {},
+  "service": "devenv",
+  "shutdownAction": "stopCompose",
+  "postCreateCommand": "cd ${containerWorkspaceFolder} && sh .devcontainer/postCreate.sh",
+  "remoteUser": "vscode",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "terminal.integrated.defaultProfile.linux": "zsh"
+      },
+      "extensions": [
+        "EditorConfig.EditorConfig",
+        "DotJoshJohnson.xml",
+        "sleistner.vscode-fileutils",
+        "redhat.vscode-xml",
+        "github.vscode-github-actions",
+        "Anthropic.claude-code"
+      ]
+    }
+  }
+}

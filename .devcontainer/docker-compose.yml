@@ -1,0 +1,13 @@
+services:
+    devenv:
+        image: mcr.microsoft.com/devcontainers/base:ubuntu
+        volumes:
+            - ..:/home/vscode/regimed-status:cached
+        user: vscode
+        command: sleep infinity
+        # vscode automatically forwards ports, so no need to specify here
+        # ports:
+        #   - 3012:3012
+
+volumes:
+    devenv:
