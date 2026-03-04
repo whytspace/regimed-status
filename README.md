@@ -1,6 +1,6 @@
 # ![regimed](assets/regimed-logo.svg)
 
-This repository contains the open-source uptime monitor and status page for [David H.](https://www.davidhell.com/), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the uptime monitor and status page for [regimed.at](https://regimed.at/), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/whytspace/regimed-status/workflows/Uptime%20CI/badge.svg)](https://github.com/whytspace/regimed-status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/whytspace/regimed-status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/whytspace/regimed-status/actions?query=workflow%3A%22Response+Time+CI%22)
