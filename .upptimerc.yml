@@ -11,8 +11,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: status.regimed.at
   baseUrl: /regimed-status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://raw.githubusercontent.com/whytspace/regimed-status/master/assets/regimed-icon.svg
+  name: regimed Status
   navbar:
     - title: Website
       href: https://regimed.at
