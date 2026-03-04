@@ -1,11 +1,40 @@
 # Change these first
 owner: whytspace # Your GitHub organization or username, where this repository lives
 repo: regimed-status # The name of this repository
-
 sites:
-  - name: Homepage
-    url: https://regimed.at
-
+  # Add sites here that aren't in your sitemap.
+  # These will be prepended to the sites list in .upptimerc.yml.
+  #
+  # - name: API Health
+  #   url: https://api.example.com/health
+  # - name: Internal Dashboard
+  #   url: https://dashboard.example.com
+  - name: CRM
+    url: https://crm.regimed.at
+  - name: "/"
+    url: "https://regimed.at"
+  - name: "/blog/2025-04-01-erste-hilfe-bei-grippe-und-erkaeltung"
+    url: "https://regimed.at/blog/2025-04-01-erste-hilfe-bei-grippe-und-erkaeltung"
+  - name: "/blog/2025-04-17-die-kraft-der-heilpflanzen"
+    url: "https://regimed.at/blog/2025-04-17-die-kraft-der-heilpflanzen"
+  - name: "/blog/2025-04-20-herz-kreislauf-gesundheit-im-fokus"
+    url: "https://regimed.at/blog/2025-04-20-herz-kreislauf-gesundheit-im-fokus"
+  - name: "/blog/2025-05-10-gut-vorbereitet-in-den-urlaub"
+    url: "https://regimed.at/blog/2025-05-10-gut-vorbereitet-in-den-urlaub"
+  - name: "/blog/2025-05-10-laborwerte-richtig-verstehen"
+    url: "https://regimed.at/blog/2025-05-10-laborwerte-richtig-verstehen"
+  - name: "/demo-lindenplatz"
+    url: "https://regimed.at/demo-lindenplatz"
+  - name: "/demo-sanavita"
+    url: "https://regimed.at/demo-sanavita"
+  - name: "/heschl-transporte"
+    url: "https://regimed.at/heschl-transporte"
+  - name: "/icecab-graz"
+    url: "https://regimed.at/icecab-graz"
+  - name: "/impressum"
+    url: "https://regimed.at/impressum"
+  - name: "/vertrieb"
+    url: "https://regimed.at/vertrieb"
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -18,6 +47,5 @@ status-website:
       href: https://regimed.at
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
