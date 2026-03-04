@@ -18,4 +18,12 @@ This repository contains the open-source uptime monitor and status page for [Dav
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://whytspace.github.io/regimed-status)undefined
+<!--start: docs-->
+
+## 👩‍💻 Read more
+
+- About [Upptime](https://upptime.js.org)
+- [Status Page](https://whytspace.github.io/regimed-status)
+- [Website](https://regimed.at)
+
+<!--end: docs-->
