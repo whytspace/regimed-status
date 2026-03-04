@@ -6,7 +6,5 @@
 # - name: Internal Dashboard
 #   url: https://dashboard.example.com
 
-- name: Homepage
-  url: https://regimed.at
 - name: CRM
   url: https://crm.regimed.at
