@@ -27,6 +27,8 @@ sites:
     url: "https://regimed.at/demo-lindenplatz"
   - name: "/demo-sanavita"
     url: "https://regimed.at/demo-sanavita"
+  - name: "/dilux-laser"
+    url: "https://regimed.at/dilux-laser"
   - name: "/heschl-transporte"
     url: "https://regimed.at/heschl-transporte"
   - name: "/icecab-graz"
