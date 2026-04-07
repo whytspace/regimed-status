@@ -11,7 +11,7 @@ sites:
   #   url: https://dashboard.example.com
   - name: CRM
     url: https://crm.regimed.at
-  - name: "/"
+  - name: "Homepage"
     url: "https://regimed.at"
   - name: "/blog/2025-04-01-erste-hilfe-bei-grippe-und-erkaeltung"
     url: "https://regimed.at/blog/2025-04-01-erste-hilfe-bei-grippe-und-erkaeltung"

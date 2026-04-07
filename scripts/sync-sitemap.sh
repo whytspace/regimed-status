@@ -31,7 +31,9 @@ url_to_path() {
   local url="$1"
   local path
   path=$(echo "$url" | sed -E 's|https?://[^/]+||')
-  echo "${path:-/}"
+  local name="${path:-/}"
+  [ "$name" = "/" ] && name="Homepage"
+  echo "$name"
 }
 
 # Fetch all URLs from sitemap
