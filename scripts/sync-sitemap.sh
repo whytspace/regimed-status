@@ -10,7 +10,8 @@ ALL_URLS=""
 fetch_urls() {
   local url="$1"
   local xml
-  xml=$(curl -sSfL "$url")
+  xml=$(curl -sSfL --max-time 30 --connect-timeout 10 --retry 3 --retry-delay 5 \
+    -H "User-Agent: Mozilla/5.0 (compatible; UptimeBot/1.0)" "$url")
 
   # Check if this is a sitemap index (grep is simpler and handles single-element edge cases)
   if echo "$xml" | grep -q '<sitemapindex'; then
