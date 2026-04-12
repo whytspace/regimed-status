@@ -1,7 +1,7 @@
 url: https://regimed.at/demo-lindenplatz
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-04-12T19:29:50.520Z
+status: up
+code: 200
+responseTime: 939
+lastUpdated: 2026-04-12T19:57:04.445Z
 startTime: 2026-03-04T21:42:09.318Z
 generator: Upptime <https://github.com/upptime/upptime>
