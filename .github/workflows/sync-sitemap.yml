@@ -20,6 +20,18 @@ jobs:
       - name: Sync sitemap to .upptimerc.yml
         run: bash scripts/sync-sitemap.sh
 
+      - name: Debug connectivity on failure
+        if: failure()
+        run: |
+          echo "=== DNS resolution ==="
+          dig +short regimed.at
+          echo "=== TCP connect test ==="
+          curl -svo /dev/null --connect-timeout 10 --max-time 15 https://regimed.at/ 2>&1 | head -30
+          echo "=== Runner public IP ==="
+          curl -s https://ifconfig.me
+          echo "=== Traceroute ==="
+          traceroute -m 15 regimed.at 2>&1 | tail -20
+
       - name: Commit and push if changed
         run: |
           git diff --quiet .upptimerc.yml && echo "No changes" && exit 0
