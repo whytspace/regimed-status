@@ -23,14 +23,16 @@ jobs:
       - name: Debug connectivity on failure
         if: failure()
         run: |
-          echo "=== DNS resolution ==="
-          dig +short regimed.at
-          echo "=== TCP connect test ==="
-          curl -svo /dev/null --connect-timeout 10 --max-time 15 https://regimed.at/ 2>&1 | head -30
           echo "=== Runner public IP ==="
-          curl -s https://ifconfig.me
-          echo "=== Traceroute ==="
-          traceroute -m 15 regimed.at 2>&1 | tail -20
+          curl -s https://ifconfig.me || true
+          echo ""
+          echo "=== DNS resolution ==="
+          dig +short regimed.at || true
+          echo "=== TCP connect test (retry after 30s pause) ==="
+          sleep 30
+          curl -svo /dev/null --connect-timeout 10 --max-time 15 https://regimed.at/ 2>&1 | head -30 || true
+          echo "=== Traceroute (TCP port 443) ==="
+          sudo traceroute -T -p 443 -m 15 regimed.at 2>&1 | tail -20 || true
 
       - name: Commit and push if changed
         run: |
