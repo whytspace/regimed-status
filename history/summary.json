@@ -484,9 +484,9 @@
     "slug": "icecab-graz",
     "status": "up",
     "uptime": "98.57%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.37%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.39%",
     "uptimeYear": "98.57%",
     "time": 868,
     "timeDay": 949,
@@ -515,8 +515,7 @@
       "2026-06-13": 38,
       "2026-06-20": 64,
       "2026-07-07": 186,
-      "2026-07-11": 16,
-      "2026-07-16": 11
+      "2026-07-11": 16
     }
   },
   {
@@ -525,11 +524,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/regimed.at.ico",
     "slug": "impressum",
     "status": "up",
-    "uptime": "98.61%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "98.61%",
+    "uptime": "98.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "98.62%",
     "time": 576,
     "timeDay": 717,
     "timeWeek": 833,
@@ -555,8 +554,7 @@
       "2026-06-10": 149,
       "2026-06-13": 33,
       "2026-06-20": 59,
-      "2026-07-07": 181,
-      "2026-07-16": 6
+      "2026-07-07": 181
     }
   },
   {
@@ -566,8 +564,8 @@
     "slug": "vertrieb",
     "status": "up",
     "uptime": "98.64%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "98.64%",
     "time": 586,
@@ -595,8 +593,7 @@
       "2026-06-10": 144,
       "2026-06-13": 28,
       "2026-06-20": 54,
-      "2026-07-07": 176,
-      "2026-07-16": 2
+      "2026-07-07": 176
     }
   }
 ]
