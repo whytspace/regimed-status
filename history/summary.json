@@ -176,11 +176,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/regimed.at.ico",
     "slug": "blog-2025-04-20-herz-kreislauf-gesundheit-im-fokus",
     "status": "up",
-    "uptime": "98.05%",
+    "uptime": "98.06%",
     "uptimeDay": "89.75%",
     "uptimeWeek": "95.84%",
     "uptimeMonth": "97.91%",
-    "uptimeYear": "98.05%",
+    "uptimeYear": "98.06%",
     "time": 680,
     "timeDay": 826,
     "timeWeek": 1072,
@@ -534,9 +534,9 @@
     "slug": "icecab-graz",
     "status": "up",
     "uptime": "98.59%",
-    "uptimeDay": "94.45%",
-    "uptimeWeek": "99.21%",
-    "uptimeMonth": "99.36%",
+    "uptimeDay": "95.21%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.38%",
     "uptimeYear": "98.59%",
     "time": 1006,
     "timeDay": 831,
@@ -566,8 +566,7 @@
       "2026-06-20": 64,
       "2026-07-07": 186,
       "2026-07-11": 16,
-      "2026-07-20": 69,
-      "2026-07-21": 11
+      "2026-07-20": 69
     }
   },
   {
@@ -577,9 +576,9 @@
     "slug": "impressum",
     "status": "up",
     "uptime": "98.63%",
-    "uptimeDay": "95.12%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.43%",
+    "uptimeDay": "95.55%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.44%",
     "uptimeYear": "98.63%",
     "time": 605,
     "timeDay": 645,
@@ -607,8 +606,7 @@
       "2026-06-13": 33,
       "2026-06-20": 59,
       "2026-07-07": 181,
-      "2026-07-20": 64,
-      "2026-07-21": 6
+      "2026-07-20": 64
     }
   },
   {
@@ -618,8 +616,8 @@
     "slug": "vertrieb",
     "status": "up",
     "uptime": "98.66%",
-    "uptimeDay": "95.79%",
-    "uptimeWeek": "99.40%",
+    "uptimeDay": "95.88%",
+    "uptimeWeek": "99.41%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "98.66%",
     "time": 636,
@@ -648,8 +646,7 @@
       "2026-06-13": 28,
       "2026-06-20": 54,
       "2026-07-07": 176,
-      "2026-07-20": 59,
-      "2026-07-21": 1
+      "2026-07-20": 59
     }
   }
 ]
