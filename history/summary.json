@@ -4,12 +4,12 @@
     "url": "https://crm.regimed.at",
     "icon": "https://icons.duckduckgo.com/ip3/crm.regimed.at.ico",
     "slug": "crm",
-    "status": "up",
-    "uptime": "97.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.93%",
-    "uptimeMonth": "97.13%",
-    "uptimeYear": "97.83%",
+    "status": "down",
+    "uptime": "97.81%",
+    "uptimeDay": "95.59%",
+    "uptimeWeek": "97.30%",
+    "uptimeMonth": "96.98%",
+    "uptimeYear": "97.81%",
     "time": 1778,
     "timeDay": 2317,
     "timeWeek": 1961,
@@ -57,7 +57,8 @@
       "2026-08-10": 64,
       "2026-08-11": 80,
       "2026-08-13": 28,
-      "2026-08-12": 36
+      "2026-08-12": 36,
+      "2026-08-17": 64
     }
   },
   {
@@ -65,12 +66,12 @@
     "url": "https://regimed.at",
     "icon": "https://icons.duckduckgo.com/ip3/regimed.at.ico",
     "slug": "homepage",
-    "status": "up",
-    "uptime": "97.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.07%",
-    "uptimeMonth": "97.30%",
-    "uptimeYear": "97.90%",
+    "status": "down",
+    "uptime": "97.88%",
+    "uptimeDay": "95.92%",
+    "uptimeWeek": "97.49%",
+    "uptimeMonth": "97.17%",
+    "uptimeYear": "97.88%",
     "time": 1070,
     "timeDay": 866,
     "timeWeek": 992,
@@ -118,7 +119,8 @@
       "2026-08-10": 60,
       "2026-08-11": 75,
       "2026-08-13": 28,
-      "2026-08-12": 31
+      "2026-08-12": 31,
+      "2026-08-17": 59
     }
   },
   {
@@ -126,7 +128,7 @@
     "url": "https://regimed.at/blog/2025-04-01-erste-hilfe-bei-grippe-und-erkaeltung",
     "icon": "https://icons.duckduckgo.com/ip3/regimed.at.ico",
     "slug": "blog-2025-04-01-erste-hilfe-bei-grippe-und-erkaeltung",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -144,12 +146,12 @@
     "url": "https://regimed.at/blog/2025-04-17-die-kraft-der-heilpflanzen",
     "icon": "https://icons.duckduckgo.com/ip3/regimed.at.ico",
     "slug": "blog-2025-04-17-die-kraft-der-heilpflanzen",
-    "status": "up",
-    "uptime": "98.04%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.36%",
-    "uptimeMonth": "97.66%",
-    "uptimeYear": "98.04%",
+    "status": "down",
+    "uptime": "98.03%",
+    "uptimeDay": "96.59%",
+    "uptimeWeek": "97.88%",
+    "uptimeMonth": "97.54%",
+    "uptimeYear": "98.03%",
     "time": 759,
     "timeDay": 854,
     "timeWeek": 978,
@@ -197,7 +199,8 @@
       "2026-08-10": 50,
       "2026-08-11": 65,
       "2026-08-13": 28,
-      "2026-08-12": 21
+      "2026-08-12": 21,
+      "2026-08-17": 49
     }
   },
   {
@@ -205,12 +208,12 @@
     "url": "https://regimed.at/blog/2025-04-20-herz-kreislauf-gesundheit-im-fokus",
     "icon": "https://icons.duckduckgo.com/ip3/regimed.at.ico",
     "slug": "blog-2025-04-20-herz-kreislauf-gesundheit-im-fokus",
-    "status": "up",
-    "uptime": "98.11%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.51%",
-    "uptimeMonth": "97.83%",
-    "uptimeYear": "98.11%",
+    "status": "down",
+    "uptime": "98.10%",
+    "uptimeDay": "96.93%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "97.73%",
+    "uptimeYear": "98.10%",
     "time": 749,
     "timeDay": 650,
     "timeWeek": 998,
@@ -258,7 +261,8 @@
       "2026-08-10": 45,
       "2026-08-11": 61,
       "2026-08-13": 29,
-      "2026-08-12": 16
+      "2026-08-12": 16,
+      "2026-08-17": 44
     }
   },
   {
@@ -266,12 +270,12 @@
     "url": "https://regimed.at/blog/2025-05-10-gut-vorbereitet-in-den-urlaub",
     "icon": "https://icons.duckduckgo.com/ip3/regimed.at.ico",
     "slug": "blog-2025-05-10-gut-vorbereitet-in-den-urlaub",
-    "status": "up",
-    "uptime": "97.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "98.01%",
-    "uptimeYear": "97.69%",
+    "status": "down",
+    "uptime": "97.68%",
+    "uptimeDay": "97.27%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "97.92%",
+    "uptimeYear": "97.68%",
     "time": 747,
     "timeDay": 769,
     "timeWeek": 993,
@@ -319,7 +323,8 @@
       "2026-08-10": 40,
       "2026-08-11": 56,
       "2026-08-13": 29,
-      "2026-08-12": 12
+      "2026-08-12": 12,
+      "2026-08-17": 39
     }
   },
   {
@@ -327,12 +332,12 @@
     "url": "https://regimed.at/blog/2025-05-10-laborwerte-richtig-verstehen",
     "icon": "https://icons.duckduckgo.com/ip3/regimed.at.ico",
     "slug": "blog-2025-05-10-laborwerte-richtig-verstehen",
-    "status": "up",
-    "uptime": "98.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "98.18%",
-    "uptimeYear": "98.25%",
+    "status": "down",
+    "uptime": "98.24%",
+    "uptimeDay": "97.60%",
+    "uptimeWeek": "98.45%",
+    "uptimeMonth": "98.10%",
+    "uptimeYear": "98.24%",
     "time": 753,
     "timeDay": 856,
     "timeWeek": 1041,
@@ -380,7 +385,8 @@
       "2026-08-10": 35,
       "2026-08-11": 51,
       "2026-08-13": 29,
-      "2026-08-12": 7
+      "2026-08-12": 7,
+      "2026-08-17": 35
     }
   },
   {
@@ -388,12 +394,12 @@
     "url": "https://regimed.at/demo-lindenplatz",
     "icon": "https://icons.duckduckgo.com/ip3/regimed.at.ico",
     "slug": "demo-lindenplatz",
-    "status": "up",
-    "uptime": "98.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.94%",
-    "uptimeMonth": "98.36%",
-    "uptimeYear": "98.37%",
+    "status": "down",
+    "uptime": "98.36%",
+    "uptimeDay": "97.94%",
+    "uptimeWeek": "98.64%",
+    "uptimeMonth": "98.29%",
+    "uptimeYear": "98.36%",
     "time": 1053,
     "timeDay": 1010,
     "timeWeek": 1168,
@@ -441,7 +447,8 @@
       "2026-08-10": 31,
       "2026-08-11": 46,
       "2026-08-13": 29,
-      "2026-08-12": 2
+      "2026-08-12": 2,
+      "2026-08-17": 30
     }
   },
   {
@@ -449,12 +456,12 @@
     "url": "https://regimed.at/demo-sanavita",
     "icon": "https://icons.duckduckgo.com/ip3/regimed.at.ico",
     "slug": "demo-sanavita",
-    "status": "up",
-    "uptime": "98.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.08%",
-    "uptimeMonth": "98.54%",
-    "uptimeYear": "98.44%",
+    "status": "down",
+    "uptime": "98.43%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "98.48%",
+    "uptimeYear": "98.43%",
     "time": 905,
     "timeDay": 825,
     "timeWeek": 1057,
@@ -501,7 +508,8 @@
       "2026-08-03": 107,
       "2026-08-10": 26,
       "2026-08-11": 41,
-      "2026-08-13": 26
+      "2026-08-13": 26,
+      "2026-08-17": 25
     }
   },
   {
@@ -509,12 +517,12 @@
     "url": "https://regimed.at/dilux-laser",
     "icon": "https://icons.duckduckgo.com/ip3/regimed.at.ico",
     "slug": "dilux-laser",
-    "status": "up",
-    "uptime": "98.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "98.71%",
-    "uptimeYear": "98.46%",
+    "status": "down",
+    "uptime": "98.45%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "98.67%",
+    "uptimeYear": "98.45%",
     "time": 936,
     "timeDay": 818,
     "timeWeek": 1057,
@@ -561,7 +569,8 @@
       "2026-08-03": 102,
       "2026-08-10": 21,
       "2026-08-11": 37,
-      "2026-08-13": 21
+      "2026-08-13": 21,
+      "2026-08-17": 20
     }
   },
   {
@@ -569,12 +578,12 @@
     "url": "https://regimed.at/heschl-transporte",
     "icon": "https://icons.duckduckgo.com/ip3/regimed.at.ico",
     "slug": "heschl-transporte",
-    "status": "up",
-    "uptime": "98.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "98.89%",
-    "uptimeYear": "98.58%",
+    "status": "down",
+    "uptime": "98.57%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "98.85%",
+    "uptimeYear": "98.57%",
     "time": 1031,
     "timeDay": 982,
     "timeWeek": 1237,
@@ -621,7 +630,8 @@
       "2026-08-03": 97,
       "2026-08-10": 16,
       "2026-08-11": 32,
-      "2026-08-13": 16
+      "2026-08-13": 16,
+      "2026-08-17": 15
     }
   },
   {
@@ -629,11 +639,11 @@
     "url": "https://regimed.at/icecab-graz",
     "icon": "https://icons.duckduckgo.com/ip3/regimed.at.ico",
     "slug": "icecab-graz",
-    "status": "up",
+    "status": "down",
     "uptime": "98.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.36%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.33%",
     "uptimeYear": "98.73%",
     "time": 1025,
     "timeDay": 1056,
@@ -667,7 +677,8 @@
       "2026-07-30": 70,
       "2026-07-31": 24,
       "2026-08-03": 93,
-      "2026-08-11": 27
+      "2026-08-11": 27,
+      "2026-08-17": 10
     }
   },
   {
@@ -675,11 +686,11 @@
     "url": "https://regimed.at/impressum",
     "icon": "https://icons.duckduckgo.com/ip3/regimed.at.ico",
     "slug": "impressum",
-    "status": "up",
+    "status": "down",
     "uptime": "98.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.41%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.40%",
     "uptimeYear": "98.78%",
     "time": 646,
     "timeDay": 1018,
@@ -711,7 +722,8 @@
       "2026-07-30": 65,
       "2026-07-31": 19,
       "2026-08-03": 88,
-      "2026-08-11": 22
+      "2026-08-11": 22,
+      "2026-08-17": 6
     }
   },
   {
@@ -719,10 +731,10 @@
     "url": "https://regimed.at/vertrieb",
     "icon": "https://icons.duckduckgo.com/ip3/regimed.at.ico",
     "slug": "vertrieb",
-    "status": "up",
+    "status": "down",
     "uptime": "98.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "98.81%",
     "time": 682,
@@ -754,7 +766,8 @@
       "2026-07-20": 59,
       "2026-07-30": 60,
       "2026-08-03": 83,
-      "2026-08-11": 17
+      "2026-08-11": 17,
+      "2026-08-17": 1
     }
   }
 ]
